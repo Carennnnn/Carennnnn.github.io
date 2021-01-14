@@ -1,0 +1,88 @@
+body{
+    margin: 0px;
+   }
+
+ul.navigation {
+    list-style-type: none;
+    margin-right: 0;
+    margin-bottom: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li.navigation {
+    float:right;
+}
+
+li a.navigation {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+}
+
+.navigation {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+
+li a:hover {
+    color:lightpink;
+}
+
+#contact {
+    margin-right: 150px;
+}
+
+#logo {
+    margin-left: 100px;
+    align-items: center;
+}
+
+#header {   
+    margin-top: 30px;
+    padding-left: 10%;
+    padding-right: 10%;  
+    margin-bottom: 5px;
+}
+
+a.p_header {
+    color: black;
+    text-decoration: none;
+}
+
+p a:hover{
+    color: #0000ff;
+}
+
+ul.projects {
+    list-style-type: square;
+}
+
+#language {
+    font-size: 22px;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Times New Roman', Arial, serif;
+}
+
+#content {
+    font-size: 25px;
+    font-family: 'Times New Roman', Arial, serif;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 0px;
+}
+
+.project1 {
+    background-color:#e6faff;
+    padding: 1px;
+}
+
+.project2 {
+    background-color:#ffffe6;
+    padding: 1px;
+}
