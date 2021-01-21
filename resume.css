@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+}
+
+ul {
+    list-style-type: none;
+    margin-right: 0;
+    margin-bottom: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float:right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color:lightpink;
+}
+
+#contact {
+    margin-right: 10vw;
+}
+
+#logo {
+    margin-left: 5vw;
+    align-items: center;
+}
+
+#notShown {
+    padding-left: 8%;
+    font-size: 15px;
+}
